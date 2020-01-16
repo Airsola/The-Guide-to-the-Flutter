@@ -38,4 +38,4 @@ flutter_doubanmovie目录下的 Flutter 工程是 Flutter 实战里仿写的豆�
 
 2. 选中 flutter_doubanmovie 目录，然后点击 `Open`
 
-   ![open](opendouban.jpg)
+   ![open](opendouban.jpg)  

@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         '/Page0': (context) => TextPage(),
         '/Page1': (context) => ImagePage(),
         '/Page2': (context) => TextFieldPage(),
-        // '/Page3': (context) => ButtonPage(),
+        '/Page3': (context) => ButtonPage(),
         '/Page3': (context) => SnackBarPage(),
         '/Page4': (context) => DialogPage(),
         '/Page5': (context) => BottomSheetPage(),
@@ -71,15 +71,15 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   List<String> widgets = [
-    '第14节 -- 文本框',
+    '11第14节 -- 文本框12',
     '第15节 -- 图片和Icon',
     '第16节 -- 输入框',
-    '第17节 -- SnackBar',
+    '第17节 -- SnackBar144',
     '第18节 -- 对话框',
     '第19节 -- BottomSheet',
     '第20节 -- 菜单栏',
     '第21节 -- 手势识别Widget',
-    '第24节 -- 弹性布局',
+    '第24节 -- 弹性布局11',
     '第25节 -- 线性布局',
     '第26节 -- 流式布局',
     '第27节 -- 层叠布局',
